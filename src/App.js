@@ -10,8 +10,8 @@ function App() {
     if (count <= 0) {
       amount = 1;
     }
-    if (count > 8) {
-      amount = 8;
+    if (count > 12) {
+      amount = 12;
     }
     setText(data.slice(0, amount));
   };

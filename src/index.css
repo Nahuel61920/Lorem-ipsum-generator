@@ -36,7 +36,7 @@ p {
 .btn:hover {
   background: rgb(32, 84, 136);
 }
-/* section */
+
 .section {
   padding: 5rem 0;
 }
@@ -47,11 +47,6 @@ p {
   max-width: 40rem;
   margin-top: 5rem;
   text-align: center;
-}
-main {
-  min-height: 100vh;
-  display: grid;
-  place-items: center;
 }
 
 .lorem-form {
